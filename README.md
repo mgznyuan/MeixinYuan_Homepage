@@ -1,2 +1,1 @@
-# MeixinYuan_Homepage
-Meixin Yuan's personal website 
+Meixin Yuan's Personal Website
